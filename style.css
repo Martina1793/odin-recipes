@@ -1,0 +1,14 @@
+* {
+    color: blueviolet;
+    line-height: 1.5;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+ul {
+    list-style: none;
+    font-size: 24px;
+}
